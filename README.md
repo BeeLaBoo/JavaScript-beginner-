@@ -1,2 +1,3 @@
 # JavaScript-beginner-
-var favoriteFood = 'rice'; console.log(favoriteFood);
+var favoriteFood = 'rice';
+console.log(favoriteFood);
